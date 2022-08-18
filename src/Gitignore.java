@@ -4,6 +4,8 @@ public class Gitignore {
         System.out.println("gitignore deneme 2 master");
         System.out.println("gitignore deneme 2 branch ");
         System.out.println("gitignore deneme 3 branch tahir ");
+        System.out.println("gitignore deneme 3 branch bekir2");
+
 
     }
 }
