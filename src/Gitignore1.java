@@ -8,5 +8,6 @@ public class Gitignore1 {
     System.out.println("gitignore deneme 4 master");
     System.out.println("gitignore deneme 5 repo");
     System.out.println("gitignore deneme 6 bekir");
+    System.out.println("gitignore deneme 7 master");
 }
 }
