@@ -5,6 +5,7 @@ public class Gitignore1 {
         System.out.println("3. deneme remote");
         System.out.println("4. deneme bekir");
         System.out.println("5. deneme bekir");
+        System.out.println("6. deneme remote");
 
 }
 }
